@@ -14,6 +14,7 @@ python ./tools/train.py --config_file=configs/softmax_triplet_osnet.yml MODEL.DE
 
 # Citation
 If you use our code in your research or wish to refer to the baseline results, please cite our paper:
+```
 @article{zhao2021learning,
   title={Learning deep part-aware embedding for person retrieval},
   author={Zhao, Yang and Shen, Chunhua and Yu, Xiaohan and Chen, Hao and Gao, Yongsheng and Xiong, Shengwu},
@@ -23,3 +24,4 @@ If you use our code in your research or wish to refer to the baseline results, p
   year={2021},
   publisher={Elsevier}
 }
+```
